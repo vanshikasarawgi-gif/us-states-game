@@ -23,6 +23,3 @@ pip install pandas
 python main.py
 
 
-
-Would you like me to also make a **1-line GitHub tagline** (like: *“Guess the U.S. states game built with Python, Turtle, and Pandas”*)?
-
